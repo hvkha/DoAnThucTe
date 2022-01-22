@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "android",
+			"path": "nagivationVer5/",
+			"problemMatcher": [],
+			"label": "npm: android - nagivationVer5",
+			"detail": "react-native run-android"
+		}
+	]
+}
